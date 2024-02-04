@@ -19,7 +19,7 @@
 <h3 align="center">Interested in learning more about</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tensorflow,html,css,js,electron,figma,go,rust,latex,nodejs" />
+    <img src="https://skillicons.dev/icons?i=py,tensorflow,docker,html,css,js,electron,figma,go,rust,latex,nodejs" />
   </a>
 </p>
 
@@ -35,6 +35,15 @@
   </tr>
   <tr>
     <td><a href="mailto:kostamecev@pm.me">kostamecev@pm.me</a></td>
+  </tr>
+</table>
+
+<table align="center" style="text-align:center;margin-left:auto;margin-right:auto;">
+  <tr>
+    <th> <img style="text-align: center;" src="https://skillicons.dev/icons?i=linkedin" width=20 length=20/> LinkedIn</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.linkedin.com/in/kostamecev/">Konstantin Mechevski</a></td>
   </tr>
 </table>
 
