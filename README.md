@@ -34,7 +34,7 @@
     <th>:mailbox_with_no_mail: Email</th>
   </tr>
   <tr>
-    <td><a href="kostamecev@pm.me">kostamecev@pm.me</a></td>
+    <td><a href="mailto:kostamecev@pm.me">kostamecev@pm.me</a></td>
   </tr>
 </table>
 
