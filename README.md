@@ -36,7 +36,7 @@
     <img src="https://skillicons.dev/icons?i=vue,angular,svelte,react,arduino,mysql,nginx" />
   </a>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=regex,scala,r,ts" />
+    <img src="https://skillicons.dev/icons?i=regex,scala,r,ts,java" />
   </a>
 </p>
 
