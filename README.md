@@ -56,14 +56,14 @@
   </tr>
 </table>
 
-<!-- <table align="center" style="text-align:center;margin-left:auto;margin-right:auto;">
+<table align="center" style="text-align:center;margin-left:auto;margin-right:auto;">
   <tr>
     <th> <img style="text-align: center;" src="https://skillicons.dev/icons?i=linkedin" width=20 length=20/> LinkedIn</th>
   </tr>
   <tr>
     <td><a href="https://www.linkedin.com/in/kostamecev/">Konstantin Mechevski</a></td>
   </tr>
-</table> -->
+</table>
 
 <table align="center" style="text-align:center;margin-left:auto;margin-right:auto;">
   <tr>
