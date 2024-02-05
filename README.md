@@ -3,28 +3,46 @@
 <p align="center">I'm a student at <a style="text-decoration:underline" href="https://www.finki.ukim.mk">FCSE</a>, tech and science enthusiast, currently working on small personal projects and job searching.</p>
 
 <h3 align="center">Langs</h3>
+<h4 align="center">Fairly proficient in</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js,bash" />
+    <img src="https://skillicons.dev/icons?i=cpp,py,js,bash" />
+  </a>
+</p>
+<h4 align="center">Basic knowledge in / Need to learn more about</h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,rust" />
   </a>
 </p>
 
-<h3 align="center">Tech</h3>
+
+<h3 align="center">Tech I use</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,vscode,github,git" />
   </a>
 </p>
 
-<h3 align="center">Interested in learning more about</h3>
+<h3 align="center">Interested in starting / learning more about</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,tensorflow,docker,html,css,js,electron,figma,go,rust,latex,nodejs" />
+    <img src="https://skillicons.dev/icons?i=py,tensorflow,docker,go,rust,latex,ruby" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,html,css,js,electron,figma,nodejs" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vue,angular,svelte,react,arduino,mysql,nginx" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=regex,scala,r,ts" />
   </a>
 </p>
 
 <h3 align="center">
-<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/65276f93f43a58c923bc627c?variant=dark" alt="roadmap.sh"/></a>
+<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/65276f93f43a58c923bc627c?variant=dark" alt="roadmap.sh"/>
+</a>
 </h3>
 
 <h3 align="center">Get in touch!</h3>
@@ -38,14 +56,14 @@
   </tr>
 </table>
 
-<table align="center" style="text-align:center;margin-left:auto;margin-right:auto;">
+<!-- <table align="center" style="text-align:center;margin-left:auto;margin-right:auto;">
   <tr>
     <th> <img style="text-align: center;" src="https://skillicons.dev/icons?i=linkedin" width=20 length=20/> LinkedIn</th>
   </tr>
   <tr>
     <td><a href="https://www.linkedin.com/in/kostamecev/">Konstantin Mechevski</a></td>
   </tr>
-</table>
+</table> -->
 
 <table align="center" style="text-align:center;margin-left:auto;margin-right:auto;">
   <tr>
