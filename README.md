@@ -6,13 +6,13 @@
 <h4 align="center">Fairly proficient in</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,py,js,bash" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,bash" />
   </a>
 </p>
-<h4 align="center">Basic knowledge in / Need to learn more about</h4>
+<h4 align="center">Some knowledge in / Need to learn more about</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,rust" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,java,rust,mysql" />
   </a>
 </p>
 
@@ -30,7 +30,7 @@
     <img src="https://skillicons.dev/icons?i=py,tensorflow,docker,go,rust,latex,ruby" />
   </a>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,html,css,js,electron,figma,nodejs" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,electron,figma,nodejs,django" />
   </a>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vue,angular,svelte,react,arduino,mysql,nginx" />
