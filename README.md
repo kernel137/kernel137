@@ -20,7 +20,7 @@
 <h3 align="center">Tech I use</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,vscode,github,git" />
+    <img src="https://skillicons.dev/icons?i=linux,vscode,github,git,obsidian" />
   </a>
 </p>
 
