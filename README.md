@@ -79,7 +79,7 @@
 
 colcipher            |   sha256vis   | rubiks-cube
 :--------------:|:-----------:|:-------------------------:
-![Colcipher](./colcipher.gif)(https://github.com/kernel137/colcipher)  | ![sha256vis](./sha256vis.PNG)(https://github.com/kernel137/colcipher)   |![Rubiks Cube](./rubiks-cube.gif)(https://github.com/kernel137/colcipher)
+[![Colcipher](./colcipher.gif)](https://github.com/kernel137/colcipher))  | [![sha256vis](./sha256vis.png)](https://github.com/kernel137/sha256vis)  |[![Rubiks Cube](./rubiks-cube.gif)](https://github.com/kernel137/rubiks-cube)
 
 
 
