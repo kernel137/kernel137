@@ -76,19 +76,13 @@
 
 <h2 align="center">Check out my projects!</h2>
 
-<!--
-<div align="center">
+colcipher            |   sha256vis   | rubiks-cube
+:--------------:|:-----------:|:-------------------------:
+![Colcipher](./colcipher.gif)(https://github.com/kernel137/colcipher)  | ![sha256vis](./sha256vis.PNG)(https://github.com/kernel137/colcipher)   |![Rubiks Cube](./rubiks-cube.gif)(https://github.com/kernel137/colcipher)
 
-| :mailbox_with_no_mail: Email         |
-|:-------------------------------------|
-| [kostamecev@pm.me](kostamecev@pm.me) |
 
-| :lock: PGP Pubkey|
-|:----------------------------|
-| **[FE 11 E9 6D](public.pgp)** |
 
-</div>
---->
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
