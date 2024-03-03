@@ -77,11 +77,11 @@
 <h2 align="center">Check out my projects!</h2>
 
 
-colcipher            |   sha256vis   | rubiks-cube
-:--------------:|:-----------:|:-------------------------:
+  colcipher  |   shavis   |   rubiks-cube
+:-----------:|:----------:|:-------------:
 [![Colcipher](./colcipher.gif)](https://github.com/kernel137/colcipher)  | [![sha256vis](./sha256vis.png)](https://github.com/kernel137/sha256vis)  |[![Rubiks Cube](./rubiks-cube.gif)](https://github.com/kernel137/rubiks-cube)
 
-
+I’m currently working on my own EsoLang, and finishing up a few bugs in [colcipher](github.com/kernel/colcipher), maybe also publishing it on PyPI.
 
 <!--
 - 🔭 I’m currently working on ...
