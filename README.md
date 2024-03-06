@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋</h1>
 <h2 align="center">I'm Kosta</h2>
-<p align="center">I'm a student at <a style="text-decoration:underline" href="https://www.finki.ukim.mk">FCSE</a>, tech and science enthusiast, currently working on small personal projects and job searching.</p>
+<p align="center">I'm a student at <a style="text-decoration:underline" href="https://www.finki.ukim.mk">FCSE</a>, tech and science enthusiast, currently working on small personal projects and <i>currently looking for work</i>.</p>
 
 <h3 align="center">Langs</h3>
 <h4 align="center">Fairly proficient in</h4>
@@ -9,7 +9,7 @@
     <img src="https://skillicons.dev/icons?i=c,cpp,py,bash" />
   </a>
 </p>
-<h4 align="center">Some knowledge in / Need to learn more about</h4>
+<h4 align="center">{Some knowledge in / Need to learn more about}</h4>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,java,rust,mysql" />
@@ -24,7 +24,7 @@
   </a>
 </p>
 
-<h3 align="center">Interested in starting / learning more about</h3>
+<h3 align="center">Interested in {starting / learning more about}</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,tensorflow,docker,go,rust,latex,ruby" />
