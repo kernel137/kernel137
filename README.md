@@ -1,7 +1,3 @@
-<h1 align="center">Hi there 👋</h1>
-<h2 align="center">I'm Kosta</h2>
-<p align="center">Coding, tech and science enthusiast, currently working on small personal projects and <i>currently looking for work</i>.</p>
-
 <h3 align="center">Langs</h3>
 <h4 align="center">Fairly proficient in</h4>
 <p align="center">
